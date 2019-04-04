@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: EKHO - Deceptive Simplicity
+subtitle: Find the liquidity you've been searching for.
 image: /img/dscf0867.jpg
 blurb:
   heading: Why Ekho?
