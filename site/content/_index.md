@@ -1,12 +1,12 @@
 ---
 title: EKHO MARKETS
-subtitle: Locating Liquidity in Financial  Markets
+subtitle: Locating Liquidity in Traded Markets
 image: /img/dscf0867.jpg
 blurb:
-  heading: Why Ekho?
+  heading: Why Ekho Markets?
   text: >-
     We are a fintech software company working to deliver greater liquidity in
-    complex financial markets.
+    complex markets.
 intro:
   heading: What we offer
   text: >-
@@ -24,10 +24,9 @@ products:
       For higher liquidity products, our Match platform provides a modern,
       capable limit order book and easy-to-use trading GUI.
 values:
-  heading: Transparency
+  heading: Market Intelligence
   text: >-
-    Too often a lack of transparency and clarity of motivations in a market can
-    erode confidence and hence impact transaction volumes. We are committed to a
-    level playing field in all participants.
+    Finding prices and liquidity in thin markets can be challenging – Ekho
+    Markets uses new technology to help users find volume at the best prices.
 ---
 
