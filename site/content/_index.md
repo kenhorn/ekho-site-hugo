@@ -1,6 +1,6 @@
 ---
-title: EKHO - Deceptive Simplicity
-subtitle: Find the liquidity you've been searching for.
+title: EKHO MARKETS
+subtitle: Locating Liquidity in Financial  Markets
 image: /img/dscf0867.jpg
 blurb:
   heading: Why Ekho?
@@ -11,7 +11,7 @@ intro:
   heading: What we offer
   text: >-
     Ekho brings a suite of market tools to participants not well served by
-    incumbent players and platforms.
+    incumbent platforms.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
