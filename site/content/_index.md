@@ -13,13 +13,13 @@ intro:
     Ekho brings a suite of market tools to participants not well served by
     incumbent platforms.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/q2dollar.svg
     text: >-
       Many markets are not liquid enough to sustain a lit order book -- whether
       due to the complexities of multiple physical locations or simply a poorly
       connected participant network. For these markets, our RFQ platform is an
       excellent fit.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/orderbook.svg
     text: >-
       For higher liquidity products, our Match platform provides a modern,
       capable limit order book and easy-to-use trading GUI.
